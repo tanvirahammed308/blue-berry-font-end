@@ -1,0 +1,329 @@
+[
+  {
+    "id": 1,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/2-2.jpg",
+    "category": "Dairy",
+    "name": "Organic Blueberry & Acai Kefir 250ml",
+    "des":" ",
+    "price": 2.99,
+    "quantity": 50,
+    "stock": "In Stock"
+  },
+  {
+    "id": 2,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/2-2.jpg",
+    "category": "Dairy",
+    "name": "Organic Litchi Juice",
+    "des":" ",
+    "price": 4.99,
+    "quantity": 35,
+    "stock": "In Stock",
+    "newArrival": true
+  },
+  {
+    "id": 3,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/5-2.jpg",
+    "category": "Dairy",
+    "name": "Organic Blueberry & Acai Kefir 250ml",
+    "des":" ",
+    "price": 3.49,
+    "quantity": 40,
+    "stock": "In Stock"
+  },
+  {
+    "id": 4,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/2-2.jpg",
+    "category": "Dairy",
+    "name": "Organic Salted Butter",
+    "des":" Our organic salted butter is churned in our own Creamery on the farm, using cream from our organic pastured cows and a touch of sea salt. You can buys this product from Daylesford",
+    "price": 3.25,
+    "quantity": 30,
+    "stock": "In Stock"
+  },
+  {
+    "id": 5,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/3-2.jpg",
+    "category": "Dairy",
+    "name": "Organic Waxed Cheddar 250g",
+    "des":" A new addition for 2021, our award winning cheddar has been miniaturised and coated in wax. Waxed cheese have the benefit of retaining moisture. Perfectly sized and presented as a Christmas gift. You can buys this product from Daylesford",
+    "price": 3.75,
+    "quantity": 35,
+    "stock": "In Stock"
+  },
+  {
+    "id": 6,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/4-2.jpg",
+    "category": "Dairy",
+    "name": "Organic Semi-Skimmed Milk 1l",
+    "des":" The quality of our organic semi-skimmed milk is all thanks to the diet of clover-rich grass pasture and nutritious forage enjoyed by our pedigree British Friesians. You can buys this product from Daylesford",
+    "price": 2.49,
+    "quantity": 50,
+    "stock": "In Stock"
+  },
+  {
+    "id": 7,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/1-3.jpg",
+    "category": "FruitAndVeg",
+    "name": "Organic Potatoes",
+    "des":" A great all-rounder, these organic potatoes are ideal for boiling, frying, mashing and roasting. You can buys this product from Daylesford",
+    "price": 2.75,
+    "quantity": 60,
+    "stock": "In Stock"
+  },
+  {
+    "id": 8,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/7-4.jpg",
+    "category": "Bakery",
+    "name": "Chocolate Coconut & Seed Oat Bites 130g",
+    "des":"Oats, coconut flakes, linseeds and chia seeds smothered with creamy cashew butter and chocolate in bite-size energy boosters, perfect for a wholesome snack on the go. You can buys this product from Daylesford ",
+    "price": 1.99,
+    "quantity": 100,
+    "stock": "In Stock",
+    "hotDeal": true
+  },
+  {
+    "id": 9,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/2-3.jpg",
+    "category": "FruitAndVeg",
+    "name": "Brussels Sprouts",
+    "des":"Brussels sprouts are the quintessential seasonal vegetable, traditionally available only through the cold winter months. You can buys this product from Daylesford ",
+    "price": 3.99,
+    "quantity": 45,
+    "stock": "In Stock"
+  },
+  {
+    "id": 10,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/3-3.jpg",
+    "category": "FruitAndVeg",
+    "name": "Organic Carrots",
+    "des":" Sweet, crunchy organic carrots provide plenty of nutritious vitamins, minerals and fibre. You can buys this product from Daylesford",
+    "price": 2.99,
+    "quantity": 120,
+    "stock": "In Stock",
+    "newArrival": true
+  },
+  {
+    "id": 11,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/4-3.jpg",
+    "category": "FruitAndVeg",
+    "name": "Organic Leeks",
+    "des":"Picked fresh from our organic Market Garden on our Cotswolds farm. You can buys this product from Daylesford ",
+    "price": 1.49,
+    "quantity": 300,
+    "stock": "In Stock"
+  },
+  {
+    "id": 12,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/5-3.jpg",
+    "category": "FruitAndVeg",
+    "name": "Organic Avocados x 2",
+    "des":" Organic avocados to ripen at home. To speed up ripening, place these organic avocados in a paper bag along with a banana at room temperature until they soften to your liking. You can buys this product from Daylesford",
+    "price": 1.99,
+    "quantity": 200,
+    "stock": "In Stock"
+  },
+  {
+    "id": 13,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/1-4.jpg",
+    "category": "Bakery",
+    "name": "Organic Anzac Biscuits 320g",
+    "des":" Made by hand in our patisserie. You can buys this product from Daylesford",
+    "price": 3.99,
+    "quantity": 90,
+    "stock": "In Stock"
+  },
+  {
+    "id": 14,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/2-4.jpg",
+    "category": "Bakery",
+    "name": "Organic Ginger Snaps 160g",
+    "des":" These light, soft organic brioche buns are perfect for summer barbecues. You can buys this product from Daylesford",
+    "price": 2.99,
+    "quantity": 150,
+    "stock": "In Stock",
+    "newArrival": true
+  },
+  {
+    "id": 15,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/3-4.jpg",
+    "category": "Bakery",
+    "name": "Organic Florentines 240g",
+    "des":" A selection pack of luxurious florentines; five dark, five milk and five white chocolate. You can buys this product from Daylesford",
+    "price": 1.99,
+    "quantity": 200,
+    "stock": "In Stock"
+  },
+  {
+    "id": 16,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/4-4.jpg",
+    "category": "Bakery",
+    "name": "Organic Brioche Buns",
+    "des":" These light, soft organic brioche buns are perfect for summer barbecues. You can buys this product from Daylesford",
+    "price": 3.99,
+    "quantity": 200,
+    "stock": "In Stock"
+  },
+  
+  {
+    
+    "id": 17,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/1-1.jpg",
+    "category": "Butcher",
+    "name": "Fruit Pig Black Pudding",
+    "des":" A mix of fresh blood, British oats and barley, British pork fat, onion and spices. Fresh real blood pudding is very rare. You can buys this product from Daylesford",
+    "price": 12.99,
+    "quantity": 30,
+    "stock": "In Stock",
+    "newArrival": true
+  },
+  {
+    "id": 18,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/7-1.jpg",
+    "category": "Butcher",
+    "name": "Organic Free Range Chicken Fillets 400g",
+
+    "des":" Our chickens live significantly longer lives than even free-range chickens. As they forage, they make the most of our organic pastures and indulge their natural instinct to explore. You can buys this product from Daylesford",
+    "price": 9.99,
+    "quantity": 50,
+    "stock": "In Stock"
+  },
+  {
+    "id": 19,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/4-1.jpg",
+    "category": "Butcher",
+    "name": "Beef Rump Steak Twin Pack 454g",
+    "des":"We favour traditional and rare breeds and our organic beef herd comprises South Devon, Gloucester and Aberdeen Angus animals, all raised on grass pasture and wild forage. You can buys this product from Daylesford ",
+    "price": 15.99,
+    "quantity": 25,
+    "stock": "Low Stock",
+    "hotDeal": true
+  },
+  
+  {
+    "id": 20,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/6-4.jpg",
+    "category": "Bakery",
+    "name": "Organic Garibaldi Biscuits 220g",
+    "des":"Made by hand in our patisserie. The Garibaldi biscuit can trace its heritage back over 150 years. A spiced currant mix between two delicate flaky pastry sheets, fondly known as a ‘squashed fly sandwich’! You can buys this product from Daylesford ",
+    "price": 4.49,
+    "quantity": 60,
+    "stock": "In Stock"
+  },
+  {
+    "id": 21,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/8-1.jpg",
+    "category": "Butcher",
+    "name": "Organic Beef Mince",
+    "des":" Our very own organic beef, raised on the lush grass pastures and wild forage of our own farms. You can buys this product from Daylesford",
+    "price": 24.99,
+    "quantity": 15,
+    "stock": "Low Stock"
+  },
+  {
+    "id": 22,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/5-1.jpg",
+    "category": "Butcher",
+    "name": "Pork Rack Of Ribs",
+    "des":" A classic affordable cut with exceptional flavour. They are versatile and can work across several cooking methods, we recommend roasting or barbecuing. You can buys this product from Daylesford",
+    "price": 6.99,
+    "quantity": 60,
+    "stock": "In Stock"
+  },
+  {
+    "id": 23,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/6-3.jpg",
+    "category": "FruitAndVeg",
+    "name": "Asparagus 454g",
+    "des":" The British asparagus season is all too brief so it’s a good idea to make the most of it while these flavourful green spears are available from a local grower in Oxfordshire. You can buys this product from Daylesford",
+    "price": 2.49,
+    "quantity": 120,
+    "stock": "In Stock"
+  },
+  {
+    "id": 24,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/7-3.jpg",
+    "category": "FruitAndVeg",
+    "name": "Organic Ruby Grapefruit",
+    "des":"With a wonderfully bright, sharp yet sweet flavour, organic grapefruit is rich in antioxidants and vitamin C, making it an ideal addition to your breakfast table, fruit salads, desserts and cocktails. You can buys this product from Daylesford ",
+    "price": 5.99,
+    "quantity": 25,
+    "stock": "Low Stock",
+    "newArrival": true
+  },
+  {
+    "id": 25,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/5-2.jpg",
+    "category": "Dairy",
+    "name": "Organic Blueberry & Acai Kefir 250ml",
+    "des":"Fermented organic milk with the live cultures we love. Made by hand on our farm with milk from our grass pastured cows, açaí & blueberries. A good source of protein, calcium & B12. You can buys this product from Daylesford ",
+    "price": 4.49,
+    "quantity": 40,
+    "stock": "In Stock",
+    "hotDeal": true
+  },
+  {
+    "id": 26,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/8-4.jpg",
+    "category": "Bakery",
+    "name": "Earl Grey Fruit Cake 620g",
+    "des":" Made by hand on our farm . Plump vine fruits, sour cherries and citrus peel soaked in fragrant tea. You can buys this product from Daylesford",
+    "price": 6.49,
+    "quantity": 20,
+    "stock": "Low Stock"
+  },
+  {
+    "id": 27,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/8-3.jpg",
+    "category": "FruitAndVeg",
+    "name": "Granny Smith Apples",
+    "des":" Apples grown from seed tend to be very different from those of the parents, and the resultant fruit frequently lack desired characteristics. You can buys this product from Daylesford",
+    "price": 4.75,
+    "quantity": 50,
+    "stock": "In Stock"
+  },
+  
+  {
+    "id": 28,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/8-4.jpg",
+    "category": "Bakery",
+    "name": "Earl Grey Fruit Cake 620g",
+    "des":" Made by hand on our farm . Plump vine fruits, sour cherries and citrus peel soaked in fragrant tea. You can buys this product from Daylesford",
+    "price": 8.99,
+    "quantity": 30,
+    "stock": "Low Stock",
+    "hotDeal": true
+  },
+  {
+    "id": 29,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/4-1.jpg",
+    "category": "Butcher",
+    "name": "Beef Rump Steak Twin Pack 454g",
+    "des":" We favour traditional and rare breeds and our organic beef herd comprises South Devon, Gloucester and Aberdeen Angus animals, all raised on grass pasture and wild forage. You can buys this product from Daylesford",
+    "price": 18.99,
+    "quantity": 20,
+    "stock": "Low Stock"
+  },
+  {
+    "id": 30,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/6-2.jpg",
+    "category": "Dairy",
+    "name": "Organic Cotswold Brown Eggs 1/2 Dozen",
+    "des":" From hens freely ranging grass and clover pastures in the fresh air. You can buys this product from Daylesford",
+    "price": 3.49,
+    "quantity": 45,
+    "stock": "In Stock"
+  },
+  
+  {
+    "id": 31,
+    "img": "https://ferme.vamtam.com/wp-content/uploads/2021/10/8-2.jpg",
+    "category": "Dairy",
+    "name": "Organic Natural Yoghurt 450g",
+    "des":" Made by hand on our farm, our organic Bledington Blue cheese is made with the non-homogenised milk from our own cows for a rich, piquant flavour and a soft, creamy texture. You can buys this product from Daylesford",
+    "price": 5.25,
+    "quantity": 35,
+    "stock": "In Stock"
+  }
+  
+  
+]
