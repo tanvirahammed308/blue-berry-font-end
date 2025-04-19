@@ -32,9 +32,9 @@ const PosterSection = () => {
 
         </div>
         {/* poster banner */}
-        <div className='mt-20 relative flex flex-col justify-center items-center'>
-            <img src={img3} alt=""  className=' w-full object-cover h-[400px] opacity-80'/>
-            <div className='w-[400px] shadow-md py-5 px-3 bg- space-y-5 absolute top-20  bg-[#183B4E] rounded-md text-white'>
+        <div className='mt-20 relative flex flex-col justify-center items-center text-center'>
+            <img src={img3} alt=""  className=' w-full object-cover h-[300px] lg:h-[400px] opacity-80'/>
+            <div className='lg:max-w-[400px] shadow-md py-5 px-3  space-y-5 lg:absolute  lg:top-20  bg-[#183B4E] rounded-md text-white'>
                 <h3 className='text-secondary  '>25% Off</h3>
                 <h1 className='text-5xl text-primary'>Fresh & Organic Fruit</h1>
                 <button className='border-2 border-[#6C7FD8] py-2 px-2 rounded-md text-primary'>Shop Now</button>

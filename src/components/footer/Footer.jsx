@@ -4,7 +4,7 @@ import MainFooter from './MainFooter'
 
 const Footer = () => {
   return (
-    <div>
+    <div className='mt-20'>
         <MainFooter/>
         <SubFooter/>
     </div>
